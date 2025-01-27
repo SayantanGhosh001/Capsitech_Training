@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+</head>
+
+<body>
+    <div class="Navbar d-flex flex-row justify-content-between">
+        <header class="container py-4 d-flex justify-content-between align-items-center">
+            <img src="./images/Logo.png" alt="">
+            <nav>
+                <ul class="nav">
+                    <li class="nav-item"><a href="./index.html" class="nav-link text-dark">Home</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-dark">Services</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-dark">Contact</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-dark">Support</a></li>
+                </ul>
+            </nav>
+            <button class="btn btn-dark">Sign Up</button>
+        </header>
+    </div>
+    <div class="main container">
+        <div class="service d-flex flex-column mt-5">
+            <div class="section-title text-5xl d-flex align-items-center font-semibold text-black">Contact us</div>
+            <div class="servicename d-flex mt-5 justify-content-around">
+                <div class="snames d-flex">
+                    <div class="slogos me-3">
+                        <img src="./images/Group 34.png" alt="" class="img3">
+                    </div>
+                    <div class="scontent d-flex flex-column">
+                        <div class="snametxt text-xl font-semibold ">Address</div>
+                        <div class="stxt pt-3 text-base">Jaipur Rajasthan INDIA<br>
+                            Pin 342087</div>
+                    </div>
+                </div>
+                <div class="snames d-flex">
+                    <div class="slogos me-3">
+                        <img src="./images/Group 33.png" alt="" class="img3">
+                    </div>
+                    <div class="scontent d-flex flex-column">
+                        <div class="snametxt text-xl font-semibold">Call us</div>
+                        <p class="stxt pt-3 text-base">+91 98765 43210
+                        </p>
+                    </div>
+                </div>
+                <div class="snames d-flex">
+                    <div class="slogos me-3">
+                        <img src="./images/Group 35.png" alt="" class="img3">
+                    </div>
+                    <div class="scontent d-flex flex-column">
+                        <div class="snametxt text-xl font-semibold">Email us</div>
+                        <div class="stxt pt-3 text-base">info@test.com
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="contactform d-flex justify-content-center text-light bg-dark mt-5 pt-5">
+        <div class="contact-form-container m-5 p-5">
+            <h2>Get in touch with us.<br>We're here to assist you.</h2>
+            <form>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="fullName" class="form-label">Full Name</label>
+                        <input type="text" class="form-control" id="fullName" placeholder="Enter your full name">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="email" class="form-label">Email Address</label>
+                        <input type="email" class="form-control" id="email" placeholder="Enter your email">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="phone" class="form-label">Phone Number</label>
+                        <input type="tel" class="form-control" id="phone" placeholder="Enter your phone number">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="dob" class="form-label">Date of Birth</label>
+                        <input type="date" class="form-control" id="dob">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="gender" class="form-label">Gender</label>
+                        <select class="form-control" id="gender">
+                            <option>Male</option>
+                            <option>Female</option>
+                            <option>Other</option>
+                        </select>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="city" class="form-label">City</label>
+                        <input type="text" class="form-control" id="city" placeholder="Enter your city">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="state" class="form-label">State</label>
+                        <input type="text" class="form-control" id="state" placeholder="Enter your state">
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="country" class="form-label">Country</label>
+                        <input type="text" class="form-control" id="country" placeholder="Enter your country">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label for="address" class="form-label">Address</label>
+                        <textarea class="form-control" id="address" rows="2" placeholder="Enter your address"></textarea>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" rows="2" placeholder="Write your message here"></textarea>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 mb-3">
+                        <label class="form-label">Request a counselling session</label><br>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="counselling" id="counsellingYes" value="yes">
+                            <label class="form-check-label" for="counsellingYes">Yes</label>
+                        </div>
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="radio" name="counselling" id="counsellingNo" value="no">
+                            <label class="form-check-label" for="counsellingNo">No</label>
+                        </div>
+                    </div>
+                    <div class="col-md-6 mb-3">
+                        <label for="resume" class="form-label">Upload your CV/Resume</label>
+                        <div class="input-group">
+                            <input type="file" class="form-control" id="resume" style="border-radius: 0;">
+                        </div>
+                    </div>
+                </div>
+                <div class="mb-3 form-check">
+                    <input type="checkbox" class="form-check-input" id="terms">
+                    <label class="form-check-label" for="terms">Agree to terms and conditions</label>
+                </div>
+                <button type="submit" class="btn btn-submit w-100">Submit Information</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="gmap container d-flex justify-content-center align-items-center mt-5 pt-5">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.650548036236!2d72.93032137398788!3d26.17550799138515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39418c261937c551%3A0x65b7b9d2944ffeb4!2sCapsitech!5e0!3m2!1sen!2sin!4v1737833372964!5m2!1sen!2sin"
+            width="1000" height="400" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <div class="question d-flex justify-content-center align-items-center flex-column mt-5 pt-5">
+        <div class="ques1 d-flex justify-content-center flex-column align-items-center">
+            <p class="text-5xl font-semibold">Do you have any quesiton</p>
+            <p class="text-base ">Our support team ready to help you, please contact with them</p>
+        </div>
+        <div class="qans d-flex justify-content-center flex-column mt-5">
+            <div class="q1 d-flex flex-row">
+                <img src="./images/Combined shape 15714.png" alt="" class="img12">
+                <p class="ps-3 font-medium text-base">How to contact with riders emergency ?</p>
+            </div>
+            <div class="q1 d-flex flex-row mt-3">
+                <img src="./images/Combined shape 15714.png" alt="" class="img12">
+                <p class="ps-3 font-medium text-base">App installation failed, how to update system information?</p>
+            </div>
+            <div class="q1 d-flex flex-row mt-3">
+                <img src="./images/Combined shape 15712.png" alt="" class="img12">
+                <div class="ps-3">
+                    <p class="font-medium text-base">Website reponse taking time, how to improve?</p>
+                    <p>Get your blood tests delivered at the home collect a sample from management news. Get your<br> blood tests delivered at the
+                    home collect a sample from management news. Get your blood<br> tests delivered at the home collect a sample from management
+                    news. Get your blood tests<br> delivered at the home.</p>
+                </div>
+            </div>
+            <div class="q1 d-flex flex-row mt-3">
+                <img src="./images/Combined shape 15714.png" alt="" class="img12">
+                <p class="ps-3 font-medium text-base">New update fixed all bug and issues</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="newsletter d-flex justify-content-center align-items-center mt-5 pt-5 container">
+        <div class=" p-4" style="max-width: 600px; width: 100%;">
+            <div class="card-body text-center d-flex flex-column z-10">
+                <p class="card-title mb-3 text-4xl font-semibold">Subscribe to Our Newsletter for Design Insights
+                </p>
+                <p class="card-text text-muted mb-4 mt-4">Be the first to discover trends, inspirations, and special
+                    offers as we
+                    bring the world of design directly to your inbox.</p>
+                <form class="d-flex mt-5">
+                    <div class="input-group">
+                        <input type="email" class="form-control1 rounded-start border-0 p-2"
+                            placeholder="Enter your email address" aria-label="Email" required>
+                        <button class="btn btn-dark m-2 p-2 px-4" type="submit">Subscribe</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="footer d-flex flex-row justify-content-center">
+        <div class="foot1 d-flex flex-column me-5 pe-5 mt-5">
+            <div class="footimg">
+                <img src="./images/Logo 2.png" alt="" class="img11">
+            </div>
+            <div class="foottxt d-flex mt-4">
+                <p class="fttxt">VivaDecor your premier <br>destination for luxury and<br> modern interior design</p>
+            </div>
+            <div class="socialicon d-flex flex-row mt-4">
+                <img src="./images/Facebook.png" alt="" class="img10 me-3">
+                <img src="./images/X.png" alt="" class="img10 me-3">
+                <img src="./images/Linkdin.png" alt="" class="img10 me-3">
+                <img src="./images/Instagram.png" alt="" class="img10 ">
+            </div>
+        </div>
+        <div class="foot2 d-flex flex-column text-light ms-5 ps-5 mt-5">
+            <p class="text-xl font-semibold">Our Services</p>
+            <p class="fttxt">Interior design</p>
+            <p class="fttxt">Outdoor design</p>
+            <p class="fttxt">Lightning design</p>
+            <p class="fttxt">Office design</p>
+        </div>
+        <div class="foot3 d-flex flex-column text-light ms-5 ps-5 mt-5">
+            <p class="text-xl font-semibold">Our Services</p>
+            <p class="fttxt">Reviews</p>
+            <p class="fttxt">Careers</p>
+            <p class="fttxt">Pricing</p>
+            <p class="fttxt">Press inquires</p>
+        </div>
+        <div class="foot4 d-flex flex-column text-light ms-5 ps-5 mt-5">
+            <p class="text-xl font-semibold">Our Services</p>
+            <p class="fttxt">info@vivadecor.com</p>
+            <p class="fttxt">Design Avenue Cityville,<br> CA 90210 United States</p>
+        </div>
+    </div>
+</body>
+
+</html>
