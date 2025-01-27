@@ -246,20 +246,8 @@
     margin-bottom: 20px;
 }
 
-
-
 .img12 {
     width: 100%;
     max-width: 20px;
     height: 20px;
-}
-
-@media only screen and (max-width: 1000px) {
-  body {
-      /* zoom: 0.6; */
-      background-color: aqua;
-      zoom: normal;
-
-
-  }
 }
