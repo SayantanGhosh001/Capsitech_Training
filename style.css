@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.logo1{
+    
+}
 .heroright {
     width: 100%;
 }
@@ -246,8 +248,23 @@
     margin-bottom: 20px;
 }
 
+
+
 .img12 {
     width: 100%;
     max-width: 20px;
     height: 20px;
+}
+
+@media only screen and (max-width: 1000px) {
+  body {
+      /* zoom: 0.6; */
+      /* background-color: aqua;
+      zoom: normal; */
+      html{
+       width: 40%;
+      }
+
+
+  }
 }
