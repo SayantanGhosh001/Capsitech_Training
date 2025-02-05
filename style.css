@@ -3,30 +3,23 @@
     padding: 0;
     box-sizing: border-box;
 }
-.logo1{
-    
-}
 .heroright {
     width: 100%;
 }
-
 .heroright .imgdesign {
     width: 100%;
     max-width: 400px;
     height: auto;
 }
-
 .hero2left {
     width: 50%;
 }
-
 .img1 {
     width: 100%;
     max-width: 550px;
     height: 350px;
     overflow: hidden;
 }
-
 .img2 {
     width: 100%;
     max-width: 100px;
@@ -34,12 +27,10 @@
     bottom: 0;
     margin: 250px 0 0 -40px;
 }
-
 .bttn {
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
 }
-
 .section-title::before {
     content: "";
     display: inline-block;
@@ -48,57 +39,46 @@
     background-color: #000;
     margin-right: 2vw;
 }
-
 .slogo {
     width: 45%;
 }
-
 .img3 {
     width: 100%;
     max-width: 60px;
     height: auto;
 }
-
 .snames {
     margin-right: 2.3vw;
 }
-
 .imgpart {
     width: 100%;
 }
-
 .img4 {
     width: 100%;
     max-width: 500px;
     height: 450px;
 }
-
 .dctn {
     box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
 }
-
 .desidnimg {
     width: 100%;
     display: flex;
     justify-content: flex-end;
 }
-
 .img5 {
     width: 100%;
     max-width: 500px;
     height: 530px;
 }
-
 .cntleft {
     width: 50%;
 }
-
 .img6 {
     width: 100%;
     max-width: 45px;
     height: auto;
 }
-
 .lineimg {
     width: 100%;
     max-width: 1.5px;
@@ -106,48 +86,40 @@
     bottom: -10px;
     position: relative;
 }
-
 .mainimg,
 .cntright {
     width: 100%;
 }
-
 .img7 {
     width: 100%;
     max-width: 500px;
     height: 450px;
 }
-
 .leftarr,
 .rightarr {
     width: 100%;
     max-width: 60px;
     height: 50px;
 }
-
 .cusreview {
     margin-left: -350px;
     border: 15px solid white;
 }
-
 .img8 {
     width: 100%;
     max-width: 25px;
     height: auto;
 }
-
 .img9 {
     width: 100%;
     max-width: 45px;
     height: auto;
 }
-
 .input-group {
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
         rgba(0, 0, 0, 0.22) 0px 10px 10px;
     justify-content: space-between;
 }
-
 .newsletter input[type=email] {
     width: 70%;
     background-color: white;
@@ -157,45 +129,37 @@
     background-position: 10px center;
     margin-left: 10px;
 }
-
 .form-control1::placeholder {
     padding-left: 30px;
 }
-
 .form-control1:focus {
     outline: none;
     box-shadow: none;
     border: none;
     background-image: none !important;
 }
-
 .footer {
     background-color: #1d1c1c;
     padding: 5vw;
 }
-
 .card-body {
     margin-bottom: -50px;
     padding: 0 !important;
     background-color: white;
 }
-
 .img10 {
     width: 100%;
     max-width: 80px;
     height: auto;
 }
-
 .img11 {
     width: 100%;
     max-width: 130px;
     height: auto;
 }
-
 .fttxt {
     color: #abaaaa;
 }
-
 /* <---------------------contact form-------------> */
 .contact-form-container {
     width: 100%;
@@ -205,14 +169,12 @@
     border-radius: 20px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
-
 .contact-form-container h2 {
     text-align: center;
     margin-bottom: 30px;
     font-size: 1.8rem;
     font-weight: bold;
 }
-
 .form-control {
     background-color: transparent !important;
     color: white !important;
@@ -220,13 +182,11 @@
     border-bottom: 1px solid #444;
     border-radius: 0;
 }
-
 .form-control:focus {
     background-color: transparent;
     box-shadow: none;
     border-bottom-color: #6c757d;
 }
-
 .btn-submit {
     background-color: #6c757d;
     color: white;
@@ -235,36 +195,17 @@
     font-size: 1rem;
     border-radius: 8px;
 }
-
 .btn-submit:hover {
     background-color: #565e64;
 }
-
 .form-label {
     color: #bbb;
 }
-
 .row {
     margin-bottom: 20px;
 }
-
-
-
 .img12 {
     width: 100%;
     max-width: 20px;
     height: 20px;
-}
-
-@media only screen and (max-width: 1000px) {
-  body {
-      /* zoom: 0.6; */
-      /* background-color: aqua;
-      zoom: normal; */
-      html{
-       width: 40%;
-      }
-
-
-  }
 }
