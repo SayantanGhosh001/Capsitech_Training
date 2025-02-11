@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,6 +12,7 @@
         crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./style.css">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.0.3/tsparticles.confetti.bundle.min.js"></script>
 </head>
 <body class="bg-dark">
     <div class="contactform d-flex justify-content-center text-light bg-dark mt-5 ">
@@ -85,8 +87,18 @@
                     <label class="form-check-label" for="terms">I agree to terms and conditions</label>
                     <span class="error ms-3" id="termsError"></span>
                 </div>
-                <button type="submit" class="btn btn-submit w-50">Submit Information</button>
+                <button type="submit" class="btn btn-submit sm:w-1/2 w-full">Submit Information</button>
             </form>
+        </div>
+          <!-----------Popup Section---------->
+        <div id="popup" class="hidden fixed inset-0 flex items-center justify-center bg-[#000000ab] bg-opacity-50">
+            <div class="bg-white p-6 rounded-lg shadow-lg w-80 text-center">
+                <h2 class="text-lg font-semibold text-gray-900">Success!</h2>
+                <p class="text-gray-600 mt-2">Your form has been submitted.</p>
+                <button id="closePopup" class="mt-4 px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
+                    OK
+                </button>
+            </div>
         </div>
     </div>
     <script src="./script.js"></script>
