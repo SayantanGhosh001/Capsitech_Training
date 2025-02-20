@@ -19,7 +19,6 @@ document.getElementById("terms").addEventListener("change", validateTerms);
 
 form.addEventListener("submit", function (event) {
   event.preventDefault();
-
   if (
     validateFullName() &&
     validateEmail() &&
@@ -35,7 +34,7 @@ form.addEventListener("submit", function (event) {
   ) {
     popup.classList.remove("hidden");
       // ---------------Confetti js-------------
-    const duration = 3 * 1000,
+    const duration = 20 * 1000,
       animationEnd = Date.now() + duration,
       defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
     function randomInRange(min, max) {

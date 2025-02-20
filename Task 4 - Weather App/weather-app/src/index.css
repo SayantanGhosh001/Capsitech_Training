@@ -1,0 +1,16 @@
+/* ./src/index.css */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+.info-div {
+  background: linear-gradient(150deg, #39ef74, #4600f1 100%);
+}
+
+@media only screen and (max-width: 353px) {
+  .weather-info {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}

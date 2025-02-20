@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card{
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset !important;
+max-width: 700px !important;
+width: 100%;
+}
+
+.form-control,.form-select{
+  background-color: #ffffff00 !important;
+}
+.form-control,.form-select:focus {
+ background-color: transparent !important;
+    box-shadow: none !important;
+    border-bottom-color: #6c757d;
+}

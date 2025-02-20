@@ -42,3 +42,9 @@ span{
     color: #ac0707;
     position: absolute;
 }
+#closePopup{
+    transition: transform 3s;
+}
+#closePopup:hover{
+      transform: rotate(360deg);
+}
