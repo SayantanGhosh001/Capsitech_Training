@@ -41,7 +41,7 @@ const Weather = () => {
         `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`
       );
       setWeatherData(response.data);
-      console.log(response);
+      console.log(response.data);
     } catch (error) {
       alert("City not found!");
       setWeatherData(null);
@@ -113,13 +113,14 @@ const Weather = () => {
               </div>
               <div className="flex justify-between mt-4 weather-info">
                 <div className="humidity bg-[#ffffff24] text-white m-3 p-2 rounded text-center hover:bg-[#00000000] hover:shadow-xl">
-                  Humidity: <p>{weatherData.main.temp}%</p>
+                  Humidity: <p>{weatherData.main.humidity}%</p>
                 </div>
                 <div className="feels-like  bg-[#ffffff24] text-white m-3 p-2 rounded text-center hover:bg-[#00000000] hover:shadow-xl">
                   Feels like: <p>{weatherData.main.feels_like}&deg;C</p>
                 </div>
                 <div className="wind-speed text-white m-3 p-2 rounded text-center bg-[#ffffff24] hover:bg-[#00000000] hover:shadow-xl">
-                  Wind Speed: <p>{weatherData.wind.speed}km/h</p>
+                  Wind Speed:{" "}
+                  <p>{Math.ceil(weatherData.wind.speed * 3.6*100)/100}km/h</p>
                 </div>
               </div>
             </>
