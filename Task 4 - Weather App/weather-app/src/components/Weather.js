@@ -97,7 +97,9 @@ const Weather = () => {
         </div>
         <div className="flex flex-col items-center p-6 min-h-[315px]">
           <p className="text-white-500 text-lg font-semibold">
-            {weatherData ? weatherData.name : "Get Output Here"}
+            {weatherData
+              ? `${weatherData.name}, ${weatherData.sys.country}`
+              : "Get Output Here"}
           </p>
 
           {weatherData && (
@@ -120,7 +122,9 @@ const Weather = () => {
                 </div>
                 <div className="wind-speed text-white m-3 p-2 rounded text-center bg-[#ffffff24] hover:bg-[#00000000] hover:shadow-xl">
                   Wind Speed:{" "}
-                  <p>{Math.ceil(weatherData.wind.speed * 3.6*100)/100}km/h</p>
+                  <p>
+                    {Math.ceil(weatherData.wind.speed * 3.6 * 100) / 100}km/h
+                  </p>
                 </div>
               </div>
             </>
