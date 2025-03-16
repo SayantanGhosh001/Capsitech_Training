@@ -1,19 +1,23 @@
 const mongoose = require("mongoose");
 
 const UserSchema = new mongoose.Schema({
-  username: {
+  name: {
     type: String,
     required: [true, "Username is required"],
-    unique: true,
+  },
+  email: {
+    type: String,
     trim: true,
-    minlength: [4, "Username must be at least 4 characters long"],
-    maxlength: [20, "Username cannot exceed 20 characters"],
+    lowercase: true,
+    unique: true,
+    required: "Email address is required",
   },
   password: {
     type: String,
     required: [true, "Password is required"],
-    minlength: [6, "Password must be at least 6 characters long"],
+    // minlength: [6, "Password must be at least 6 characters long"],
   },
-});
+  
+},{timestamps: true});
 
 module.exports = mongoose.model("User", UserSchema);
