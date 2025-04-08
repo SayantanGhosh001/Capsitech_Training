@@ -45,15 +45,27 @@ const Register = () => {
   };
 
   return (
-    <section className="bg-[#F9FAFB] dark:bg-[#111827]">
-      <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto min-h-screen lg:py-0">
+    <section className="bg-[#F9FAFB] dark:bg-[#111827] py-3 px-4">
+      <div className="flex justify-between w-full mb-6 border-b-[1px] border-white pb-3">
+        <h1 className="sm:text-3xl md:text-4xl text-xl font-bold text-gray-100 text-center">
+          Task Manager
+        </h1>
+        <a
+          href="/login"
+          className="bg-[#13c94d] text-white px-4 py-2 rounded-md hover:bg-[#26813e] transition inline-block"
+        >
+          Login
+        </a>
+      </div>
+
+      <div className="flex flex-col items-center  sm:px-6 py-6 mx-auto min-h-screen ">
         <div className="w-full bg-[#FFFFFF] rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-[#1F2937] dark:border-[#374151]">
-          <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
+          <div className="p-6 space-y-4 md:space-y-6">
             <h1 className="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
               Create an account
             </h1>
             <form className="space-y-4 md:space-y-6" onSubmit={handleSubmit}>
-              <div>
+              <div className=" m-2 p-0">
                 <label
                   htmlFor="email"
                   className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
@@ -70,7 +82,7 @@ const Register = () => {
                   required
                 />
               </div>
-              <div>
+              <div className=" m-2 p-0">
                 <label
                   htmlFor="email"
                   className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
@@ -87,7 +99,7 @@ const Register = () => {
                   required
                 />
               </div>
-              <div>
+              <div className=" m-2 p-0">
                 <label
                   htmlFor="password"
                   className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
@@ -131,7 +143,7 @@ const Register = () => {
               </div>
               <button
                 type="submit"
-                className="w-full text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
+                className="w-full text-white bg-blue-600 hover:bg-blue-700 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800"
               >
                 Create an account
               </button>

@@ -63,6 +63,10 @@ const Tasks = () => {
       });
       setTasks([...tasks, res.data]); // Update UI
       setNewTask({ title: "", description: "" }); // Clear form
+      toast.success("Task Added Successfully 🎉", {
+        autoClose: 3000,
+        theme: "colored",
+      });
     } catch (err) {
       console.error("Error adding task", err);
       toast.error("Time out! Login again", {
@@ -93,6 +97,10 @@ const Tasks = () => {
       );
 
       setTasks(tasks.map((task) => (task._id === taskId ? res.data : task)));
+      toast.success("Task updated Successfully", {
+        autoClose: 3000,
+        theme: "colored",
+      });
       setEditTask(null);
     } catch (err) {
       console.error("Error updating task", err);
@@ -111,6 +119,10 @@ const Tasks = () => {
         headers: { Authorization: `Bearer ${token}` },
       });
       setTasks(tasks.filter((task) => task._id !== taskId)); // Remove from UI
+      toast.warning("Task Deleted!!", {
+        autoClose: 3000,
+        theme: "colored",
+      });
     } catch (err) {
       console.error("Error deleting task", err);
       toast.error("Time out! Login again", {
@@ -121,7 +133,6 @@ const Tasks = () => {
     }
   };
 
-  const today = new Date();
 
   return (
     <div className="min-h-screen bg-[#111827] flex flex-col items-center py-3 px-4">
@@ -170,7 +181,7 @@ const Tasks = () => {
         {tasks.map((task) => (
           <li
             key={task._id}
-            className="bg-[#0c0c0c] border-[#bb86fc] border shadow-md p-4 md:p-5 rounded-lg mb-4 flex flex-col gap-2 m-2 w-[300px] justify-center"
+            className="bg-[#0c0c0c] border-[#bb86fc] border shadow-md p-4 md:p-5 rounded-lg mb-4 flex flex-col gap-2 m-2 sm:w-[300px] w-[350px] justify-center"
           >
             {editTask === task._id ? (
               <div className="flex flex-col gap-2">
@@ -203,7 +214,9 @@ const Tasks = () => {
               </div>
             ) : (
               <div>
-                <p className="text-white flex justify-end mt-[-10px] pb-1 border-b-1 border-white mb-1.5">{formatDate(today)}</p>
+                <p className="text-white flex justify-end mt-[-10px] pb-1 border-b-1 border-white mb-1.5">
+                  {formatDate(task.createdAt)}
+                </p>
                 <h3 className="text-lg font-semibold text-[#7d84ff] font-[Roboto]">
                   {task.title}
                 </h3>

@@ -56,8 +56,20 @@ const Login = () => {
 
   return (
     <>
-      <section className="bg-[#F9FAFB] dark:bg-[#111827]">
-        <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto min-h-screen lg:py-0">
+      <section className="bg-[#F9FAFB] dark:bg-[#111827] py-3 px-4">
+        <div className="flex justify-between w-full mb-6 border-b-[1px] border-white pb-3 ">
+          <h1 className="sm:text-3xl md:text-4xl text-xl font-bold text-gray-100 text-center">
+            Task Manager
+          </h1>
+          <a
+            href="/register"
+            className="bg-[#13c94d] text-white px-4 py-2 rounded-md hover:bg-[#26813e] transition inline-block"
+          >
+            Register
+          </a>
+        </div>
+
+        <div className="flex flex-col items-center pt-12 mx-auto min-h-screen ">
           <div className="w-full bg-[#FFFFFF] rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-[#1F2937] dark:border-[#374151]">
             <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
               <h1 className="text-[1.25rem] font-bold leading-tight tracking-tight text-[#111827] md:text-[1.5rem] dark:text-[#FFFFFF]">
