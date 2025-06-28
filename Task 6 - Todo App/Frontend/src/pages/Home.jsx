@@ -7,7 +7,9 @@ const Home = () => {
     <div className="text-center body">
       <Navbar />
       <div className=" font-extrabold text-black mt-16 agbalumo-regular">
-        <p className="sm:text-6xl txt-border text-4xl">Welcome to the ToDoFlow</p>
+        <p className="sm:text-6xl txt-border text-4xl">
+          Welcome to the Taskify
+        </p>
         <p className="sm:text-3xl tracking-normal mt-5 text-2xl ">
           Where tasks meet momentum, and productivity
           <br /> flows effortlessly.
@@ -24,5 +26,4 @@ const Home = () => {
     </div>
   );
 };
-
 export default Home;

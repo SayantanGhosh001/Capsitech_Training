@@ -10,17 +10,13 @@ import TodoList from "./pages/TodoList";
 const App = () => {
   return (
     <AuthProvider>
-      {/* <Navbar />
-      <div className="container mx-auto p-4"> */}
       <Routes>
         <Route path="/" element={<Home />} />
-
         {/* Public Routes (Cannot be accessed if logged in) */}
         <Route element={<PublicRoute />}>
           <Route path="/login" element={<Login />} />
           <Route path="/register" element={<Register />} />
         </Route>
-
         {/* Protected Routes (Only accessible if logged in) */}
         <Route element={<ProtectedRoute />}>
           <Route path="/todos" element={<TodoList />} />

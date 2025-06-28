@@ -10,14 +10,14 @@ const Navbar = () => {
   return (
     <nav className="bg-[#0000009c] p-4 text-white flex justify-between">
       <h1 className="text-2xl font-bold font-[roboto] agbalumo-regular">
-        ToDoFlow
+        Taskify
       </h1>
       <div className="flex">
         {user ? (
           <>
-            {useEffect(()=>{
+            {useEffect(() => {
               console.log("User:", user);
-            },[])}
+            }, [])}
             <span className="sm:mr-4 capitalize mr-2 text-center">
               Welcome, {user.name.split(" ")[0]}
             </span>

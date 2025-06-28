@@ -67,7 +67,7 @@ const logout = (req, res) => {
 
 const getUser = async (req, res) => {
   try {
-    const user = await User.findById(req.user.id).select("name email").lean();	;
+    const user = await User.findById(req.user.id).select("name email").lean();	
     if (!user) {
       return res.status(404).json({ error: "User not found" });
     }

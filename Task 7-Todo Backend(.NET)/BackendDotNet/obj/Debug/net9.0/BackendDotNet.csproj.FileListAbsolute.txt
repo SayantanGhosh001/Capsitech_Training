@@ -1,0 +1,154 @@
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\appsettings.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.staticwebassets.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.exe
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.deps.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.runtimeconfig.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Snappier.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.AssemblyReference.cache
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfoInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\scopedcss\bundle\BackendDotNet.styles.css
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.build.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendD.88D37C29.Up2Date
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\refint\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\BackendDotNet.genruntimeconfig.cache
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\obj\Debug\net9.0\ref\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sayantan\OneDrive\Desktop\.Net\Task 6 - Todo App\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\appsettings.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.staticwebassets.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.exe
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.deps.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.runtimeconfig.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Snappier.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.AssemblyReference.cache
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfoInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\scopedcss\bundle\BackendDotNet.styles.css
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.build.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendD.88D37C29.Up2Date
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\refint\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.genruntimeconfig.cache
+C:\Users\Sayantan\OneDrive\Desktop\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\ref\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\appsettings.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.staticwebassets.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.exe
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.deps.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.runtimeconfig.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\BCrypt.Net-Next.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\DnsClient.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\MongoDB.Bson.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\MongoDB.Driver.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\SharpCompress.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Snappier.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\bin\Debug\net9.0\ZstdSharp.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.AssemblyReference.cache
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfoInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.AssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.sourcelink.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\scopedcss\bundle\BackendDotNet.styles.css
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.BackendDotNet.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.build.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BackendDotNet.props
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendD.88D37C29.Up2Date
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\refint\BackendDotNet.dll
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.pdb
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\BackendDotNet.genruntimeconfig.cache
+C:\Users\Sayantan\OneDrive\Desktop\Capsitech\Task 7-Todo Backend(.NET)\BackendDotNet\obj\Debug\net9.0\ref\BackendDotNet.dll
